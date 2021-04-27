@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F4730A41-2F4B-1A73-A983-418CA4A0E5D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemies/LookAtVelocity.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemies/PatrolMovement.cs" Line="71" Column="84" />
+      <File FileName="Assets/Scripts/Air Supply/AirSupplyPickup.cs" Line="12" Column="51" />
+      <File FileName="Assets/Scripts/Player Movement/SwimmingMovement.cs" Line="21" Column="53" />
+      <File FileName="Assets/Scripts/Objectives/LevelObjective.cs" Line="32" Column="66" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="41" Column="16" />
+      <File FileName="Assets/Scripts/Stealth/Stealth.cs" Line="26" Column="6" />
+      <File FileName="Assets/Scripts/Player Movement/ScaleAlwaysUp.cs" Line="23" Column="30" />
+      <File FileName="Assets/Scripts/Enemies/LookAtVelocity.cs" Line="7" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
